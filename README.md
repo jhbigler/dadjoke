@@ -1,5 +1,5 @@
 # dadjoke
-An incredibly stupid Ruby script to grab a dad joke from an API and email it
+An incredibly stupid Ruby script to grab a dad joke from an API and email it. I use it to email a dad joke to my work email once a week.
 
 ## Usage
 ```console
